@@ -34,5 +34,6 @@ At its core :
 ```
 
 -Look at the working example file for more details and how to use.
+
 -Also contains some PHP codes in comments for a comparison.
 
